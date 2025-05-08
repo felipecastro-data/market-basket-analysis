@@ -45,6 +45,8 @@ market-basket-analysis/
 
 **Felipe Castro**  
 Analytics Engineer @ EPAM Systems  
-[Certifications links]
+
+📜 [PL-300: Power BI Data Analyst](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)  
+📜 [DP-600: Fabric Analytics Engineer](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)
 
 ---
