@@ -21,14 +21,14 @@ Retailers can benefit from knowing which products are frequently bought together
 
 ## 📁 Project Structure
 
-'''
+```
 market-basket-analysis/
 ├── data/
 ├── notebooks/
 ├── reports/
 ├── src/
 └── README.md
-'''
+```
 
 ---
 
